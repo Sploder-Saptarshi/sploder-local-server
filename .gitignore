@@ -1,4 +1,5 @@
 client.zip
+server.zip
 client/assets/config.json
 server/database.db
 server/.db_created
