@@ -5,4 +5,4 @@ server/database.db
 server/.db_created
 server/.env
 server/users/*
-php
+php/*
